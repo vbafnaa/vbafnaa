@@ -8,14 +8,15 @@
 - Bajaj HackRx 4.0 Winner
 - Second Runner up at International Rover Challenge '24
 - Top 10 at European Rover Challenge '23
-- Team Manager @DJSAntariksh
 - First Runner up at LOC 5.0
 - Top 12 at Codeshastra 9.0
+- Team Manager @DJSAntariksh
 
   ## 📊 My GitHub Stats:
 ![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=vbafnaa&show_icons=true&theme=tokyonight)
-
+<!--
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vbafnaa&theme=tokyonight)
+-->
 
 ## 🏆 GitHub Trophies:
 [![trophy](https://github-profile-trophy.vercel.app/?username=vbafnaa&theme=onedark)](https://github.com/vbafnaa/github-profile-trophy)
