@@ -1,6 +1,7 @@
 ### Hi there 👋
--I'm [vbafnaa](https://github.com/vbafnaa), a Computer Engineering Student and a Space Enthusiast✨✨
--🌱 I’m always looking to learn new things!
+- I'm [vbafnaa](https://github.com/vbafnaa), a Computer Engineering Student and a Space Enthusiast✨✨
+- 🌱 I’m always looking to learn new things!
+
 
 ## 🥇 Achievements:
 - SIH 2023 Winner
