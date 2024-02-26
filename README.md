@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm vbafnaa, a Computer Engineering Student and a Space Enthusiast✨✨
- 🌱 I’m always looking to learn new things!
+🌱 I’m always looking to learn new things!
 <!--
 **vbafnaa/vbafnaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
